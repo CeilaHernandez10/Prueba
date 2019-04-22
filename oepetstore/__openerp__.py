@@ -18,4 +18,5 @@ A wonderful application to sell pet toys.
     'depends' : ['sale_stock'],
     'qweb': ['static/src/xml/*.xml'],
     'application': True,
+    'installable': True,
 }
